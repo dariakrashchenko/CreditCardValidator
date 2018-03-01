@@ -17,8 +17,7 @@ Luhn Algorithm is known by many names: the "Luhn Formula", "The IBM Check", "Mod
 
 User can choose which algorithm to take by creating an object of LuhnMod10Algorithm/VerhoeffAlgorithm class.
 <code>
-  LuhnMod10Algorithm lu = new LuhnMod10Algorithm(); 
-  
+  LuhnMod10Algorithm lu = new LuhnMod10Algorithm();  
   VerhoeffAlgorithm  ver = new VerhoeffAlgorithm();  
 </code>
 
